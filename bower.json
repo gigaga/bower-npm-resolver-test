@@ -1,0 +1,21 @@
+{
+  "name": "bower-npm-resolve-test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mickael Jeanroy <mickael.jeanroy@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "npm:jquery#1.12.4",
+    "angular-core": "npm:@angular/core#~2.0.0"
+  }
+}
